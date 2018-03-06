@@ -1,5 +1,7 @@
 # Gavel.js — Validator of HTTP Transactions
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/apiaryio/gavel.js.svg)](https://greenkeeper.io/)
+
 [![npm version](https://badge.fury.io/js/gavel.svg)](https://badge.fury.io/js/gavel)
 [![Build Status](https://travis-ci.org/apiaryio/gavel.js.svg?branch=master)](https://travis-ci.org/apiaryio/gavel.js)
 [![Build status](https://ci.appveyor.com/api/projects/status/0cpnaoakhs8q58tn/branch/master?svg=true)](https://ci.appveyor.com/project/Apiary/gavel-js/branch/master)
